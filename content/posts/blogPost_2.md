@@ -2,7 +2,7 @@
 title = 'Using grep,awk,sed and other tools to parse data'
 date = 2024-12-16T12:26:34-05:00
 author = "Harsha"
-draft = true
+draft = false
 tags = ["linux","bash","grep","sed","awk"]
 +++
 
