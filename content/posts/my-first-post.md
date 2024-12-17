@@ -13,3 +13,4 @@ I have created this post to share  my thoughts and views on a variety of topics.
 I am a **Full Stack Developer** and I am always looking for new ways to improve my skills and knowledge. I like to do most of my work in **Linux** and **Windows**. I am a big fan of **Open Source** and I believe that everyone should have access to the best tools and resources. I have a certiication in kubernetes and I am always looking for new ways to learn and grow. The certification is from **CNCF** and it is called **CKA**.
 
 I started my journey to programming in 2018 and I have been learning ever since.  I have learned a lot and I am always looking for new ways to improve my skills and knowledge.
+
