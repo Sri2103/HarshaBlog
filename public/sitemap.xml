@@ -2,39 +2,66 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/tags/awk/</loc>
+    <loc>http://localhost:1313/HarshaBlog/tags/docker/</loc>
     <lastmod>2024-12-17T13:19:52-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/bash/</loc>
+    <loc>http://localhost:1313/HarshaBlog/tags/elasticsearch/</loc>
     <lastmod>2024-12-17T13:19:52-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/grep/</loc>
+    <loc>http://localhost:1313/HarshaBlog/tags/grafana/</loc>
     <lastmod>2024-12-17T13:19:52-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>http://localhost:1313/HarshaBlog/</loc>
     <lastmod>2024-12-17T13:19:52-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/linux/</loc>
+    <loc>http://localhost:1313/HarshaBlog/tags/javascript/</loc>
     <lastmod>2024-12-17T13:19:52-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/logger/</loc>
+    <loc>http://localhost:1313/HarshaBlog/tags/js/</loc>
     <lastmod>2024-12-17T13:19:52-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>http://localhost:1313/HarshaBlog/tags/kibana/</loc>
     <lastmod>2024-12-17T13:19:52-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/sed/</loc>
+    <loc>http://localhost:1313/HarshaBlog/posts/logger/</loc>
     <lastmod>2024-12-17T13:19:52-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>http://localhost:1313/HarshaBlog/tags/metrics/</loc>
     <lastmod>2024-12-17T13:19:52-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/blogpost_2/</loc>
+    <loc>http://localhost:1313/HarshaBlog/tags/monitoring/</loc>
+    <lastmod>2024-12-17T13:19:52-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/HarshaBlog/posts/</loc>
+    <lastmod>2024-12-17T13:19:52-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/HarshaBlog/tags/prometheus/</loc>
+    <lastmod>2024-12-17T13:19:52-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/HarshaBlog/tags/</loc>
+    <lastmod>2024-12-17T13:19:52-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/HarshaBlog/tags/awk/</loc>
     <lastmod>2024-12-16T12:26:34-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/my-first-post/</loc>
+    <loc>http://localhost:1313/HarshaBlog/tags/bash/</loc>
+    <lastmod>2024-12-16T12:26:34-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/HarshaBlog/tags/grep/</loc>
+    <lastmod>2024-12-16T12:26:34-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/HarshaBlog/tags/linux/</loc>
+    <lastmod>2024-12-16T12:26:34-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/HarshaBlog/tags/sed/</loc>
+    <lastmod>2024-12-16T12:26:34-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/HarshaBlog/posts/blogpost_2/</loc>
+    <lastmod>2024-12-16T12:26:34-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/HarshaBlog/posts/my-first-post/</loc>
     <lastmod>2024-12-15T19:11:08-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>http://localhost:1313/HarshaBlog/categories/</loc>
   </url>
 </urlset>

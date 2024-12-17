@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Elasticsearch on Harsha&#39;s Blog</title>
-    <link>http://localhost:1313/tags/elasticsearch/</link>
+    <link>http://localhost:1313/HarshaBlog/tags/elasticsearch/</link>
     <description>Recent content in Elasticsearch on Harsha&#39;s Blog</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 17 Dec 2024 13:19:52 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/elasticsearch/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/HarshaBlog/tags/elasticsearch/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Logger</title>
-      <link>http://localhost:1313/posts/logger/</link>
+      <link>http://localhost:1313/HarshaBlog/posts/logger/</link>
       <pubDate>Tue, 17 Dec 2024 13:19:52 -0500</pubDate>
-      <guid>http://localhost:1313/posts/logger/</guid>
+      <guid>http://localhost:1313/HarshaBlog/posts/logger/</guid>
       <description>Building a Logging and Monitoring Architecture with Kubernetes, Logstash, Elasticsearch, and Kibana Introduction Logs are a critical part of any system, providing insight into application behavior, debugging information, and security monitoring. This blog post documents the design and implementation of a logging and monitoring system using a microservices architecture in Kubernetes. It integrates Logstash, Elasticsearch, Kibana, and Prometheus, with a Node.js web service (Primary Service) and a Sidecar container for filtering logs.</description>
     </item>
   </channel>

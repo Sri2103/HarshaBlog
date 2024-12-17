@@ -2,24 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Grep on Harsha&#39;s Blog</title>
-    <link>http://localhost:1313/tags/grep/</link>
+    <link>http://localhost:1313/HarshaBlog/tags/grep/</link>
     <description>Recent content in Grep on Harsha&#39;s Blog</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 17 Dec 2024 13:19:52 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/grep/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Logger</title>
-      <link>http://localhost:1313/posts/logger/</link>
-      <pubDate>Tue, 17 Dec 2024 13:19:52 -0500</pubDate>
-      <guid>http://localhost:1313/posts/logger/</guid>
-      <description>Building a Logging and Monitoring Architecture with Kubernetes, Logstash, Elasticsearch, and Kibana Introduction Logs are a critical part of any system, providing insight into application behavior, debugging information, and security monitoring. This blog post documents the design and implementation of a logging and monitoring system using a microservices architecture in Kubernetes. It integrates Logstash, Elasticsearch, Kibana, and Prometheus, with a Node.js web service (Primary Service) and a Sidecar container for filtering logs.</description>
-    </item>
+    <lastBuildDate>Mon, 16 Dec 2024 12:26:34 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/HarshaBlog/tags/grep/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Using grep,awk,sed and other tools to parse data</title>
-      <link>http://localhost:1313/posts/blogpost_2/</link>
+      <link>http://localhost:1313/HarshaBlog/posts/blogpost_2/</link>
       <pubDate>Mon, 16 Dec 2024 12:26:34 -0500</pubDate>
-      <guid>http://localhost:1313/posts/blogpost_2/</guid>
+      <guid>http://localhost:1313/HarshaBlog/posts/blogpost_2/</guid>
       <description>In the simplest terms, grep (global regular expression print) will search input files for a search string, and print the lines that match it.&#xA;Beginning at the first line in the file, grep copies a line into a buffer, compares it against the search string, and if the comparison passes, prints the line to the screen. Grep will repeat this process until the file runs out of lines. Notice that nowhere in this process does grep store lines, change lines, or search only a part of a line.</description>
     </item>
   </channel>
